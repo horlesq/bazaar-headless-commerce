@@ -5,4 +5,7 @@
     <Project Path="src/Bazaar.Domain/Bazaar.Domain.csproj" />
     <Project Path="src/Bazaar.Infrastructure/Bazaar.Infrastructure.csproj" />
   </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Bazaar.Domain.UnitTests/Bazaar.Domain.UnitTests.csproj" />
+  </Folder>
 </Solution>
